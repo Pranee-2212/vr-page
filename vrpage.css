@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.banner {
+    height: 90vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    text-align: center;
+
+}
+
+.totl {
+    color: #ffffff;
+}
+
+.botn {
+    color: white;
+    background-color: #1a2137;
+    border-radius: 5px;
+    border-width: 0px;
+    font-size: 20px;
+    height: 70px;
+    width: 200px;
+}
+
+.logo {
+    height: 30px;
+    width: 27px;
+}
+
+.nav-text {
+    color: #323f4b;
+}
+
+.botn2 {
+    text-align: center;
+}
+
+.main-heading {
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.card-1 {
+    text-align: center;
+}
+
+.title {
+    color: #1f2933;
+
+}
+
+.subtext {
+    color: #7b8794;
+}
+
+.logo {
+    height: 60px;
+    width: 57px;
+}
+
+.pict {
+    height: 250px;
+    width: 200px;
+    margin: 5px;
+}
+
+.subtxt {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.card-1 {
+    text-align: center;
+}
+
+.pict {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.card-3 {
+    text-align: center;
+
+
+}
+
+.rdbtn {
+    height: 60px;
+    width: 160px;
+    font-size: 25px;
+}
+
+.paragraph-3 {
+    color: #7b8794;
+
+}
+
+.heading-3 {
+    color: #1f2933;
+    font-weight: bold;
+
+}
+
+.box-v {
+    background-color: #222b36;
+    text-align: center;
+    color: white;
+
+}
+
+.mgdis-img {
+    height: 35%;
+    width: 65%;
+}
+
+.bg {
+    background-color: #222b36;
+}
+
+.mgapp-img {
+    height: 100%;
+    width: 100%;
+}
+
+.v-title {
+    font-size: 40px;
+}
+}
+
+.title-1 {
+    color: #1f2933;
+
+}
+
+.smalltxt {
+    color: #959ead;
+    font-size: 20px;
+
+}
+
+.largetext {
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 30px;
+    color: #1f2933;
+}
+
+.link-a {
+    color: #1754a1;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.imgs {
+    height: 40%;
+    width: 100%;
+}
+
+.butn {
+    background-color: #1754a1;
+    color: white;
+    height: 100%;
+    width: 30%;
+    padding: 20px;
+}
+
+.tab {
+
+    height: 100%;
+}
+
+.botn-b {
+    text-align: right;
+}
